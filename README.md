@@ -1,3 +1,7 @@
+## Branches
+The first branch contains the first project, a `simple counter app`
+the second branch contains the `shopping-cart` component code.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
